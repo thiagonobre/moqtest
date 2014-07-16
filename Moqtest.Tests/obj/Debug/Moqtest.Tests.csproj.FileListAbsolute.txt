@@ -1,0 +1,11 @@
+E:\git\Moqtest.Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\git\Moqtest.Tests\bin\Debug\Moqtest.Tests.dll
+E:\git\Moqtest.Tests\bin\Debug\Moqtest.Tests.pdb
+E:\git\Moqtest.Tests\bin\Debug\Moq.dll
+E:\git\Moqtest.Tests\bin\Debug\Moqtest.dll
+E:\git\Moqtest.Tests\bin\Debug\nunit.framework.dll
+E:\git\Moqtest.Tests\bin\Debug\Moqtest.pdb
+E:\git\Moqtest.Tests\bin\Debug\Moq.xml
+E:\git\Moqtest.Tests\bin\Debug\nunit.framework.xml
+E:\git\Moqtest.Tests\obj\Debug\Moqtest.Tests.dll
+E:\git\Moqtest.Tests\obj\Debug\Moqtest.Tests.pdb
