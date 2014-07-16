@@ -1,5 +1,0 @@
-E:\git\moqtest\bin\Debug\Moqtest.dll
-E:\git\moqtest\bin\Debug\Moqtest.pdb
-E:\git\moqtest\obj\Debug\ResolveAssemblyReference.cache
-E:\git\moqtest\obj\Debug\Moqtest.dll
-E:\git\moqtest\obj\Debug\Moqtest.pdb
